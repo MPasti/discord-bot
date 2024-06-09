@@ -1,0 +1,5 @@
+node_modules
+.env
+keyWords.mjs
+ffmpeg
+*.mp3
